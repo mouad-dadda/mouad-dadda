@@ -48,9 +48,9 @@
 
  ##### Github Statistics 📈
 
- <img src="https://github-readme-streak-stats.herokuapp.com?user=mouad-dadda&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width='80%' >
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=mouad-dadda&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  >
 
- <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=mouad-dadda&layout=compact&show_icon=true&theme=dark" width='80%' />
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=mouad-dadda&layout=compact&show_icon=true&theme=dark"  />
 
 <br>
 
