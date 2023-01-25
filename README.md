@@ -16,7 +16,7 @@
   ```
  
   
-  ##### Languages and Tools 🛠 
+  #### Languages and Tools 🛠 
   
 
 
@@ -46,12 +46,13 @@
 <br>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width='22%'/>
 
- ##### Github Statistics 📈
+ #### Github Statistics 📈
 
  <img src="https://github-readme-streak-stats.herokuapp.com?user=mouad-dadda&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  >
 <br>
+  <br>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=mouad-dadda&layout=compact&show_icon=true&theme=dark"  />
-
+<br>
 <br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The+only+way+to+learn+a+new+programming+language+is+by+writing+programs+in+it.&author=Dennis+Ritchie"/>
