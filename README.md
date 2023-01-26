@@ -11,7 +11,7 @@
   ```diff
   ! Hi 👋, I'm Mouad🔮.
   + I am a full stack developer .
-  I am passionate about creating clean and efficient code 
+    passionate about creating clean and efficient code 
   and am always looking to learn new technologies.
   ```
  
