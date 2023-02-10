@@ -18,33 +18,16 @@
   
   #### Languages and Tools 🛠 
   
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,mongodb,nodejs) <br/>
+  ![My Skills](https://skillicons.dev/icons?i=laravel,react,docker,bootstrap,jquery,express)<br/>
+  ![My Skills](https://skillicons.dev/icons?i=git,github,figma) <br/>
+  ![My Skills](https://skillicons.dev/icons?i=vscode,redux)
 
 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width='19%'/>
 
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" width='11%' />
+  
 
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width='12%'/>
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width='14%'/>
-
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width='14%'/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" width='18%'/>
-
-<br>
-
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" width='15%'/>
-
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width='13%'/>
-
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width='19%'/>
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" width='15%'/>
-<br>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width='10%'/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width='14%'/>
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" width='14%'/>
-<br>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width='22%'/>
 
  #### Github Statistics 📈
 
@@ -61,5 +44,7 @@
 
  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
   
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=mouad-dadda&left_color=green&right_color=red)
+<!--    ![visitors](https://visitor-badge.glitch.me/badge?page_id=mouad-dadda&left_color=green&right_color=red) -->
+   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mouad-dadda&left_text=My%20Page%20Visitors)
+
 </div>
