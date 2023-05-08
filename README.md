@@ -45,6 +45,7 @@
  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
   
 <!--    ![visitors](https://visitor-badge.glitch.me/badge?page_id=mouad-dadda&left_color=green&right_color=red) -->
-   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mouad-dadda&left_text=My%20Page%20Visitors)
-
+<!--    ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mouad-dadda&left_text=My%20Page%20Visitors)
+ -->
+ ![Visitors](https://api.visitorbadge.io/api/visitors?path=mouad-dadda&label=VISITORS&countColor=%23697689)
 </div>
