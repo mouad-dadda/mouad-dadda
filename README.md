@@ -40,6 +40,10 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The+only+way+to+learn+a+new+programming+language+is+by+writing+programs+in+it.&author=Dennis+Ritchie"/>
 
+<br>
+<a href="https://app.daily.dev/mouad_dadda"><img src="https://api.daily.dev/devcards/v2/cmPs2DO0hyj5zVizDLJDZ.png?type=silver&r=v3n" width="356" alt="Mouad's Dev Card"/></a>
+<br>
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
