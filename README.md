@@ -10,7 +10,7 @@
 
 ---
 
-#### 🌟 About Me<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="25" height="25" />
+### 🌟 About Me<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="25" height="25" />
 
 <div align="center">
   I'm a <b>Fullstack Developer</b> with a passion for crafting dynamic, user-centric web applications. I specialize in Laravel, Next.js, and React, always aiming to solve complex problems with clean, efficient code.
@@ -22,14 +22,14 @@
 
 ###### 🌍 Based in Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25" height="25" />
 
-#### 🚀 Goals & Aspirations <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" />
+### 🚀 Goals & Aspirations <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" />
 
 - **Innovate & Collaborate**: Eager to collaborate on impactful projects, learn new technologies, and contribute to the global tech community.
 - **Continuous Learning**: Stay ahead of the curve by continually expanding my skillset in modern web development technologies.
 
 ---
 
-#### 💻 Tech Stack<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="30" height="30" />
+### 💻 Tech Stack<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="30" height="30" />
 
 <div align="center" >
 
@@ -97,16 +97,17 @@
 
 ---
 
-#### 📊 GitHub Stats<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Decreasing.webp" alt="Chart Decreasing" width="25" height="25" />
+### 📊 GitHub Stats<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Decreasing.webp" alt="Chart Decreasing" width="25" height="25" />
 
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mouad-dadda&show_icons=true&theme=github_dark" alt="Mouad GitHub stats" />
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=mouad-dadda&theme=github_dark" alt="Mouad GitHub streaks" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouad-dadda&layout=compact&langs_count=7&theme=github_dark"/>
   <img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mouad-dadda&theme=github_dark" alt="profile-details" />
 </div>
 
 ---
-##### 📫 Connect with Me<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" />
+#### 📫 Connect with Me<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" />
 
 <div align="center">
 
