@@ -119,7 +119,11 @@
 
 ---
 
-![moon](https://moon-svg.minung.dev/moon.svg?theme=basic)
+<div align="center">
+  <a href="https://app.daily.dev/mouad_dadda">
+    <img src="https://api.daily.dev/devcards/v2/cmPs2DO0hyj5zVizDLJDZ.png?type=wide&r=8ef" width="450" alt="Mouad Dadda's Dev Card"/>
+  </a>
+</div>
 
 <!--
 [![GitHub Followers](https://img.shields.io/github/followers/mouad-dadda?style=social)](https://github.com/mouad-dadda)
