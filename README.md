@@ -3,7 +3,7 @@
 ![LINE](./images/line.gif)
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/mouad-dadda/count.svg" />
+  <img src="https://profile-counter.deno.dev/mdadda/count.svg" />
 </p>
 
 <h2> Hey there !   I'm Mouad Dadda<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /></h2>
@@ -103,6 +103,8 @@
     <img src="https://api.daily.dev/devcards/v2/cmPs2DO0hyj5zVizDLJDZ.png?type=wide&r=8ef" width="450" alt="Mouad Dadda's Dev Card"/>
   </a>
 </div>
+
+[![Mouad dadda profile views](https://u8views.com/api/v1/github/profiles/105318825/views/day-week-month-total-count.svg)](https://u8views.com/github/mouad-dadda)
 
 <!--
 [![GitHub Followers](https://img.shields.io/github/followers/mouad-dadda?style=social)](https://github.com/mouad-dadda)
