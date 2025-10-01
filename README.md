@@ -104,7 +104,7 @@
   </a>
 </div>
 
-[![Mouad dadda profile views](https://u8views.com/api/v1/github/profiles/105318825/views/day-week-month-total-count.svg)](https://u8views.com/github/mouad-dadda)
+<!--[![Mouad dadda profile views](https://u8views.com/api/v1/github/profiles/105318825/views/day-week-month-total-count.svg)](https://u8views.com/github/mouad-dadda) -->
 
 <!--
 [![GitHub Followers](https://img.shields.io/github/followers/mouad-dadda?style=social)](https://github.com/mouad-dadda)
