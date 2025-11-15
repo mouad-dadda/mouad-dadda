@@ -20,8 +20,6 @@
 
 > " The code you write makes a difference – keep it clean, keep it meaningful. "
 
-###### 🌍 Based in Morocco<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Morocco.webp" alt="Flag Morocco" width="25" height="25" />
-
 ### 🚀 Goals & Aspirations <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" />
 
 - **Innovate & Collaborate**: Eager to collaborate on impactful projects, learn new technologies, and contribute to the global tech community.
